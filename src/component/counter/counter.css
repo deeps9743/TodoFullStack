@@ -1,0 +1,29 @@
+button{
+    width: 100px;
+    border-radius: 50px;
+    border: 2px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.Counter-button{
+    background-color: #00a5ab; 
+}
+.reset-button{
+    background-color: #168537; /* Green */
+}
+.count{
+    font-size: 25px;
+}
+.totalCount{
+    font-size: 75px;
+}
+.Counter-button:hover {
+    background-color: #00a5ab;
+    color: black;
+}
